@@ -1,1 +1,1 @@
-python --version
+print("恭喜拒绝内卷的小测试拉取Git项目并成功执行！")
